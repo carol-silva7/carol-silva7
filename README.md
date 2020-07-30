@@ -6,7 +6,7 @@ My name is Caroline Alfredo da Silva from Brazil (colocar bandeira).-->
 
 I've been working as Front-End Developer.
 
-I've developed in Angular(2+) and React.
+I've developping in Angular(2+) and React.
 Currently I'm  starting in the world of Android applications.
 
 
