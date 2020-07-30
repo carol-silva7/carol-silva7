@@ -9,7 +9,12 @@ Currently I'm  starting in the world of Android applications.
 
 
 Would you like to find me?
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/carolineasilva/)](https://www.linkedin.com/in/carolineasilva/)
+
+Would you like to know what I'm creating this week?
+https://casflix.vercel.app/
+
 
 <!--
 - 🔭 I’m currently working on ...
