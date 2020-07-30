@@ -7,6 +7,10 @@ My name is Caroline Alfredo da Silva from Brazil (colocar bandeira).-->
 I've been working as Front-End Developer,developed in Angular(2+) and React.
 Currently I'm  starting in the world of Android applications.
 
+
+Would you like to find me?
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/carolineasilva/)](https://www.linkedin.com/in/carolineasilva/)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
